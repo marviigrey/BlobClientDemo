@@ -1,0 +1,1 @@
+This is a simple script used to list out all containers in a blob utilizing azure blobServiceClient.
